@@ -12,6 +12,7 @@ Jupytext ChangeLog
 
 **Added**
 - Added a test that ensures that `py:percent` scripts end with exactly one blank line (#682)
+- Added a test to make sure that Jupytext works well with symbolic links to folders (not files!) (#696)
 
 
 1.9.1 (2021-01-06)
